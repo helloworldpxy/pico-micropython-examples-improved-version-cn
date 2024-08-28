@@ -7,7 +7,7 @@ Examples to accompany the "[Raspberry Pi Pico Python SDK](https://datasheets.ras
 
 **Note:** There are also additional examples for the RP2040 port of MicroPython [here](https://github.com/micropython/micropython/tree/master/examples/rp2) in the upstream [MicroPython repo](https://github.com/micropython/micropython).
 
-**注：**还有RP2040的MicroPython端口的其他示例[此处](https://github.com/micropython/micropython/tree/master/examples/rp2)在上游[MicroPython仓库](https://github.com/micropython/micropython).
+**注:** 还有RP2040的MicroPython端口的其他示例[此处](https://github.com/micropython/micropython/tree/master/examples/rp2)在上游[MicroPython仓库](https://github.com/micropython/micropython).
 
 ## Contributions
 
