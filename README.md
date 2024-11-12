@@ -20,3 +20,5 @@ Our example code is under the BSD-3-Clause License: any contributions must be un
 虽然我们欢迎拉取请求以贡献更多示例代码，但请不要链接到个人网站或您的社交媒体。通过AsciiDoc描述和Fritzing接线图完整记录的贡献，例如参见[NeoPixel Ring](https://github.com/raspberrypi/pico-micropython-examples/tree/master/pio/neopixel_ring)例如，有更多的机会被纳入。
 
 我们的示例代码遵循BSD-3-Clause许可证：任何贡献都必须遵循相同的许可证。
+
+## 本项目在原项目基础上改进了部分代码，添加了中文注释，使之更加易懂。
